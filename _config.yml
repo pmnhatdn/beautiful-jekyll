@@ -23,14 +23,14 @@ description: A Place where we talk about the awesomeness of Salesforce (SFDC) an
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "http://sfdc.com/about"
+  About Me: "/about"
   Technology:
-    - Salesforce: "http://sfdc.com.vn"
-    - Javascript: "http://sfdc.com.vn"
-    - HTML/CSS: "http://sfdc.com.vn"
+    - Salesforce: "#"
+    - Javascript: "#"
+    - HTML/CSS: "#"
   Language Study:
-    - Japanese: "http://sfdc.com.vn"
-    - English: "http://sfdc.com.vn"
+    - Japanese: "#"
+    - English: "#"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
