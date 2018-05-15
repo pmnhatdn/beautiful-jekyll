@@ -23,7 +23,7 @@ description: A Place where we talk about the awesomeness of Salesforce (SFDC) an
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "/about"
+  About Me: "about"
   Technology:
     - Salesforce: "#"
     - Javascript: "#"
