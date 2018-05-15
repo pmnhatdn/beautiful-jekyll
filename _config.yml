@@ -23,12 +23,14 @@ description: A Place where we talk about the awesomeness of Salesforce (SFDC) an
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://www.linkedin.com/in/nhat-pham-b0667090/"
+  About Me: "/about"
+  Technology:
+    - Salesforce: "http://deanattali.com/beautiful-jekyll/"
+    - Javascript
+    - HTML/CSS
+  Language Study:
+    - Japanese:
+    - English
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
