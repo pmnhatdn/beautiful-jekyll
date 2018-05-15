@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Vietnam SFDC Blog
+title: Salesforce (SFDC), Vietnam community
 
 # Short description of your site
-description: A Place where we talk about the awesomeness of SFDC
+description: A Place where we talk about the awesomeness of Salesforce (SFDC) and other 
 
 # --- Navigation bar options --- #
 
