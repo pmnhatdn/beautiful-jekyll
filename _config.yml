@@ -19,18 +19,19 @@ title: Salesforce (SFDC), Vietnam community
 # Short description of your site
 description: A Place where we talk about the awesomeness of Salesforce (SFDC) and other 
 
-# --- Navigation bar options --- #
+# --- 
+igation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "/about"
   Technology:
-    - Salesforce: "/"
-    - Javascript: "/"
-    - HTML/CSS: "/"
+    - Salesforce: "http://sfdc.com.vn"
+    - Javascript: "http://sfdc.com.vn"
+    - HTML/CSS: "http://sfdc.com.vn"
   Language Study:
-    - Japanese: "/"
-    - English: "/"
+    - Japanese: "http://sfdc.com.vn"
+    - English: "http://sfdc.com.vn"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
