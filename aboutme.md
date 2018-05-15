@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Nhật Pham at pmnhatdn@gmail.com  
+subtitle: Technologies, Salesforce, Enterprise solutions
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi there,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Nhat Pham, currently living in HCM city, the most dynamic and fast-growing of Vietnam.
 
-What else do you need?
+Via this site, I'd like to introduce the new technologies that I learn, and experiences from the projects I'm going to build to the community.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Salesforce will be the starting point...and up to this point, you might already have the anwser for the meaning of www.sfdc.com.vn ? If you still don't, reach me at https://www.linkedin.com/in/nhat-pham-b0667090/
