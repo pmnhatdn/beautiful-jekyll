@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nhật Pham at pmnhatdn@gmail.com  
+title: Nhat Pham at pmnhatdn@gmail.com  
 subtitle: Technologies, Salesforce, Enterprise solutions
 ---
 
