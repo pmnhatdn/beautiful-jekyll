@@ -24,8 +24,8 @@ description: A Place where we talk about the awesomeness of Salesforce (SFDC) an
 navbar-links:
   About Me: "about"
   Technology:
-    - Salesforce: "#"
-    - Javascript: "#"
+    - Salesforce: "salesforce"
+    - Javascript: "js"
     - HTML/CSS: "#"
   Language Study:
     - Japanese: "#"
