@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Getting started with Salesforce
 ---
-# Getting started with Salesforce
 
 ## What is Salesforce
 Salesforce is now one of the biggest CRM platform in the world. It comes with a lots of cloud-based applications for Sales, Marketing, Services... and also the ablity to customize and develop our own applications for our own purposes.
