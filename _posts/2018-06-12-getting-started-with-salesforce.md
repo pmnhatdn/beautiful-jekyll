@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Getting started with Salesforce
 ---
 # Getting started with Salesforce
@@ -20,4 +20,3 @@ Developer org
 ### Resources for our Salesforce exploring
 Saleforce Documentation
 Salesforce Training - Trailhead
-
