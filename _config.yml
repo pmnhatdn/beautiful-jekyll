@@ -22,9 +22,9 @@ description: A Place where we talk about the awesomeness of Salesforce (SFDC) an
 
 # List of links in the navigation bar
 navbar-links:
-  Salesforce: "salesforce"
-  Web Development: 
-    - Javascript: "js"
+  Technology:
+    - Salesforce: "#"
+    - Javascript: "#"
     - HTML/CSS: "#"
   Language Study:
     - Japanese: "#"
