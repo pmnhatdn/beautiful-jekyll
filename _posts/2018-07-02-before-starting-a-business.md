@@ -1,12 +1,6 @@
 # What are the things to do before starting a business?
 ## Source: Business Insider
 
-## Starting a business is exciting -- and scary.
-
-I've started more businesses than I'd care to admit. In my experience, it's a bit like driving through a heavy fog where you are only able to see a few feet in front of the windshield -- you don't know what's up ahead until it's upon you. However, the longer you are an entrepreneur, the better you can navigate through that fog.
-
-As I've been driving through the fog for over a decade now, I thought I would take today's post and boil down 15 of the biggest lessons I've learned over the past decade of building and growing businesses. Consider these tips "stuff I wish I had known when I was young and stupid." Let's get to them.
-
 1. **Don't listen to statistics.**
 
 People love to throw around the statistic that 95 percent of business fail. Don't listen to that -- it's an excuse to make you feel comfortable about giving up. If that number is even correct, it's because most people don't commit, they don't follow through to the end or they are stupid in how they manage their money.
